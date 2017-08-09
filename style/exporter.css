@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+.ecf-warning {
+	background-color: lightYellow;
+	border-color: #E6DB55;
+	border: #E6DB55 1px solid;
+	border-radius: 3px;
+	padding: 2px;
+	margin: 5px 0 15px;
+}
